@@ -19,50 +19,26 @@
 - 📫 How to reach me? **mdawahabreja@example.com**  
 - ⚡ Fun fact: I love **chess♟️, AI development, and problem-solving**!  
 
----
+### Hi there, I'm Mohammad Wahab 👋
 
-### 🔥 **GitHub Stats & Activity**
+- 🔭 I’m a software engineer. I always like to learn new things.
+
+- ⚡ Always available for new opportunities.
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdawahabreja&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdawahabreja&theme=radical" alt="GitHub Streaks" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojebsikder&theme=algolia&hide_border=true" alt="sojebsikder" />
+ </p>
+
+
+  <p align="center">
+<!-- Github stats -->
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=sojebsikder&theme=algolia&show_icons=true&count_private=true" />
+<br/>
+ <!-- Top Languages Card -->
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojebsikder&theme=algolia&layout=compact" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sojebsikder&theme=algolia" />
+
 </p>
-
----
-
-### 🚀 **Languages & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,mongodb,firebase,python,java,androidstudio,figma,vscode,git,github" />
-</p>
-
----
-
-### 📊 **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdawahabreja&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📅 **GitHub Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdawahabreja&theme=radical" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-### 📫 **Connect with Me**
-<p align="center">
-  <a href="https://linkedin.com/in/mdawahabreja">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mdawahabreja">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/mdawahabreja">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ⭐ **_Thank you for visiting my profile!_** 🚀
