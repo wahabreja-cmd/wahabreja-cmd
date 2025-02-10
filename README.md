@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Md A Wahab Reja 👋</h1>
-<h3 align="center">🚀 Software Engineer | Flutter & Full Stack Developer</h3>
+<h3 align="center">🚀 Software Engineer Flutter (Android,iOS,Desktop,Mac) | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/mdawahabreja">
